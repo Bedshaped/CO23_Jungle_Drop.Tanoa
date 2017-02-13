@@ -1,0 +1,1 @@
+#include "tfr_setup\init.sqf"
