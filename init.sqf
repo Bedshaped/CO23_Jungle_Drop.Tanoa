@@ -1,1 +1,3 @@
-#include "tfr_setup\init.sqf"
+// #include "tfr_setup\init.sqf"
+
+execVm "hint.sqf";
