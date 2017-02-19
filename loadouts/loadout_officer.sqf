@@ -1,3 +1,5 @@
+#include "tfr_setup\settings.sqf"
+
 // Officer Loadout - Jungle Drop by Bedshaped
 
 _unit = _this select 0;
